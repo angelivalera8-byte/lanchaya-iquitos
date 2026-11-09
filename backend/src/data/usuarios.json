@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nombre": "Pasajero Demo",
+    "email": "pasajero@lanchaya.pe",
+    "passwordHash": "6f7808e5ff2bf12128f3b651238ed105:5578451f0c6aa46e86db8c5bb384003733e4cb9d75e7cc14d38ff2358067f450181c2fab810af417475bc4a101bf1d0b84f3a87253e59a08ab15d9c9bd07d9ee",
+    "rol": "pasajero",
+    "empresa": ""
+  },
+  {
+    "id": 2,
+    "nombre": "Fluvial Amazonas",
+    "email": "fluvial@lanchaya.pe",
+    "passwordHash": "bcc2ec2e78eeec43542068abbd75325c:356ca34b146bd17866e480f6bd45de18ceaa0f220d067264cbc29b0c6b373d7285b9bb566e553b1f8dede9b4de9d08a6092b9497d61037da23358ee1f06b68b9",
+    "rol": "empresa",
+    "empresa": "Fluvial Amazonas"
+  },
+  {
+    "id": 3,
+    "nombre": "Río Itaya",
+    "email": "itaya@lanchaya.pe",
+    "passwordHash": "2a40bff8c81799df3865f2c638ea2cb0:9144076d88e2ffdd13c9766da0d4c8bb4279d2b59fa5b24e52803ff2577b144ad94de5a468cb0f37fed501a634e0ba061f56207811f7f75f8aac315015af3467",
+    "rol": "empresa",
+    "empresa": "Transportes Río Itaya"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  { "id": 1, "empresa": "Transportes Río Itaya", "embarcacion": "Don José II", "tipo": "rapido", "destino": "Nauta", "puerto": "Puerto Productores", "fechaHora": "2026-11-09T06:30", "duracionHoras": 2, "precio": 20, "cupos": 30 },
+  { "id": 2, "empresa": "Fluvial Amazonas", "embarcacion": "Eduardo VII", "tipo": "lancha", "destino": "Yurimaguas", "puerto": "Puerto Henry", "fechaHora": "2026-11-09T18:00", "duracionHoras": 72, "precio": 120, "cupos": 150 },
+  { "id": 3, "empresa": "Expreso Marañón", "embarcacion": "Gilmer IV", "tipo": "rapido", "destino": "Requena", "puerto": "Puerto Henry", "fechaHora": "2026-11-10T05:00", "duracionHoras": 4, "precio": 70, "cupos": 40 },
+  { "id": 4, "empresa": "Trifrontera Express", "embarcacion": "Golfinho", "tipo": "rapido", "destino": "Santa Rosa", "puerto": "Puerto Henry", "fechaHora": "2026-11-10T05:30", "duracionHoras": 10, "precio": 200, "cupos": 45 },
+  { "id": 5, "empresa": "Fluvial Amazonas", "embarcacion": "Ayapua I", "tipo": "lancha", "destino": "Pucallpa", "puerto": "Puerto Masusa", "fechaHora": "2026-11-11T16:00", "duracionHoras": 100, "precio": 150, "cupos": 120 },
+  { "id": 6, "empresa": "Transportes Río Itaya", "embarcacion": "Don José I", "tipo": "rapido", "destino": "Nauta", "puerto": "Puerto Productores", "fechaHora": "2026-11-09T14:00", "duracionHoras": 2, "precio": 20, "cupos": 30 },
+  { "id": 7, "empresa": "Expreso Marañón", "embarcacion": "Gilmer III", "tipo": "rapido", "destino": "Caballococha", "puerto": "Puerto Henry", "fechaHora": "2026-11-11T05:00", "duracionHoras": 14, "precio": 230, "cupos": 40 },
+  { "id": 8, "empresa": "Deslizadores Nanay", "embarcacion": "Nanay Veloz", "tipo": "deslizador", "destino": "Indiana", "puerto": "Bellavista Nanay", "fechaHora": "2026-11-09T09:00", "duracionHoras": 1, "precio": 15, "cupos": 12 },
+  { "id": 9, "empresa": "Fluvial Amazonas", "embarcacion": "Eduardo VII", "tipo": "lancha", "destino": "Yurimaguas", "puerto": "Puerto Henry", "fechaHora": "2026-11-13T18:00", "duracionHoras": 72, "precio": 120, "cupos": 150 },
+  { "id": 10, "empresa": "Lancha Loreto", "embarcacion": "Mariscal Cáceres", "tipo": "lancha", "destino": "Requena", "puerto": "Puerto Henry", "fechaHora": "2026-11-10T17:00", "duracionHoras": 14, "precio": 40, "cupos": 100 },
+  { "id": 11, "empresa": "Trifrontera Express", "embarcacion": "Golfinho", "tipo": "rapido", "destino": "Santa Rosa", "puerto": "Puerto Henry", "fechaHora": "2026-11-12T05:30", "duracionHoras": 10, "precio": 200, "cupos": 3 },
+  { "id": 12, "empresa": "Transportes Río Itaya", "embarcacion": "Doña Rosa", "tipo": "deslizador", "destino": "Nauta", "puerto": "Puerto Productores", "fechaHora": "2026-11-10T07:00", "duracionHoras": 2, "precio": 25, "cupos": 8 }
+]
